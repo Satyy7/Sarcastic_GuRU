@@ -1,5 +1,5 @@
 
-# SarcastiGRU: A Sarcasm Detection System with Streamlit Interface
+# Sarcastic_GuRU: A Sarcasm Detection System with Streamlit Interface
 
 This project presents a sarcasm detection system using Natural Language Processing (NLP) and a Bidirectional GRU-based deep learning model. It includes a complete training pipeline, hyperparameter tuning using Keras Tuner, evaluation metrics, and a Streamlit application for interactive predictions.
 
@@ -42,8 +42,8 @@ This project presents a sarcasm detection system using Natural Language Processi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sarcastic_GuRU.git
-cd sarcastiGRU
+git clone https://github.com/satyy7/sarcastic_GuRU.git
+cd sarcastic_GuRU
 ```
 
 2. Install required packages:
